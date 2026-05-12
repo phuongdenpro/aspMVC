@@ -1,0 +1,13 @@
+﻿using CMVC.Models;
+
+namespace CMVC.Services
+{
+    public class JwtService : IJwtService
+
+    {
+        public string CreateAccessToken(User user, IConfiguration config)
+        {
+            throw new NotImplementedException();
+        }
+    }
+}

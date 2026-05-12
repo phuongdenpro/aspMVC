@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\CMVC\obj\Debug\net8.0\CMVC.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\CMVC\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\PC\source\repos\CMVC\obj\Debug\net8.0\CMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\CMVC\obj\Debug\net8.0\CMVC.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\CMVC\obj\Debug\net8.0\CMVC.AssemblyInfo.cs
+C:\Users\PC\source\repos\CMVC\obj\Debug\net8.0\CMVC.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CMVC\obj\Debug\net8.0\CMVC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\source\repos\CMVC\obj\Debug\net8.0\CMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\source\repos\CMVC\obj\Debug\net8.0\CMVC.RazorAssemblyInfo.cache
+C:\Users\PC\source\repos\CMVC\obj\Debug\net8.0\CMVC.RazorAssemblyInfo.cs
+C:\Users\PC\source\repos\CMVC\obj\Debug\net8.0\CMVC.sourcelink.json

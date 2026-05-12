@@ -51,6 +51,22 @@ public class AuthController : ControllerBase
         return Ok("Register success");
     }
 
+    [HttpPost("adminRegister")]
+    public async Task<IActionResult> AdminRegister(RegisterDto dto)
+    {
+        var user = new User
+        {
+            Username = dto.Username,
+            PasswordHash = PasswordHelper.Hash(dto.Password),
+            Role = "Admin"
+        };
+
+        _context.Users.Add(user);
+        await _context.SaveChangesAsync();
+
+        return Ok("Register success");
+    }
+
     [HttpPost("login")]
     public async Task<IActionResult> Login(LoginDto dto)
     {

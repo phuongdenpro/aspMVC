@@ -8,6 +8,7 @@ C:\Users\PC\source\repos\CMVC\bin\Debug\net10.0\CMVC.runtimeconfig.json
 C:\Users\PC\source\repos\CMVC\bin\Debug\net10.0\CMVC.dll
 C:\Users\PC\source\repos\CMVC\bin\Debug\net10.0\CMVC.pdb
 C:\Users\PC\source\repos\CMVC\bin\Debug\net10.0\Humanizer.dll
+C:\Users\PC\source\repos\CMVC\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\PC\source\repos\CMVC\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\PC\source\repos\CMVC\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
 C:\Users\PC\source\repos\CMVC\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
@@ -19,6 +20,12 @@ C:\Users\PC\source\repos\CMVC\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.De
 C:\Users\PC\source\repos\CMVC\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.InMemory.dll
 C:\Users\PC\source\repos\CMVC\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\PC\source\repos\CMVC\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PC\source\repos\CMVC\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PC\source\repos\CMVC\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC\source\repos\CMVC\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC\source\repos\CMVC\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC\source\repos\CMVC\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC\source\repos\CMVC\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\PC\source\repos\CMVC\bin\Debug\net10.0\Microsoft.OpenApi.dll
 C:\Users\PC\source\repos\CMVC\bin\Debug\net10.0\Mono.TextTemplating.dll
 C:\Users\PC\source\repos\CMVC\bin\Debug\net10.0\MySqlConnector.dll
@@ -32,6 +39,7 @@ C:\Users\PC\source\repos\CMVC\bin\Debug\net10.0\System.Composition.Convention.dl
 C:\Users\PC\source\repos\CMVC\bin\Debug\net10.0\System.Composition.Hosting.dll
 C:\Users\PC\source\repos\CMVC\bin\Debug\net10.0\System.Composition.Runtime.dll
 C:\Users\PC\source\repos\CMVC\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\PC\source\repos\CMVC\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\PC\source\repos\CMVC\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Users\PC\source\repos\CMVC\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
 C:\Users\PC\source\repos\CMVC\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
@@ -94,6 +102,7 @@ C:\Users\PC\source\repos\CMVC\obj\Debug\net10.0\CMVC.MvcApplicationPartsAssembly
 C:\Users\PC\source\repos\CMVC\obj\Debug\net10.0\CMVC.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\PC\source\repos\CMVC\obj\Debug\net10.0\CMVC.RazorAssemblyInfo.cache
 C:\Users\PC\source\repos\CMVC\obj\Debug\net10.0\CMVC.RazorAssemblyInfo.cs
+C:\Users\PC\source\repos\CMVC\obj\Debug\net10.0\CMVC.sourcelink.json
 C:\Users\PC\source\repos\CMVC\obj\Debug\net10.0\rjimswa.dswa.cache.json
 C:\Users\PC\source\repos\CMVC\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\Users\PC\source\repos\CMVC\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
@@ -169,19 +178,10 @@ C:\Users\PC\source\repos\CMVC\obj\Debug\net10.0\staticwebassets.build.json.cache
 C:\Users\PC\source\repos\CMVC\obj\Debug\net10.0\staticwebassets.development.json
 C:\Users\PC\source\repos\CMVC\obj\Debug\net10.0\staticwebassets.build.endpoints.json
 C:\Users\PC\source\repos\CMVC\obj\Debug\net10.0\swae.build.ex.cache
-C:\Users\PC\source\repos\CMVC\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 C:\Users\PC\source\repos\CMVC\obj\Debug\net10.0\CMVC.csproj.Up2Date
 C:\Users\PC\source\repos\CMVC\obj\Debug\net10.0\CMVC.dll
 C:\Users\PC\source\repos\CMVC\obj\Debug\net10.0\refint\CMVC.dll
 C:\Users\PC\source\repos\CMVC\obj\Debug\net10.0\CMVC.pdb
 C:\Users\PC\source\repos\CMVC\obj\Debug\net10.0\CMVC.genruntimeconfig.cache
 C:\Users\PC\source\repos\CMVC\obj\Debug\net10.0\ref\CMVC.dll
-C:\Users\PC\source\repos\CMVC\obj\Debug\net10.0\CMVC.sourcelink.json
-C:\Users\PC\source\repos\CMVC\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\PC\source\repos\CMVC\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\PC\source\repos\CMVC\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\PC\source\repos\CMVC\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\PC\source\repos\CMVC\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\PC\source\repos\CMVC\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\PC\source\repos\CMVC\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\PC\source\repos\CMVC\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC\source\repos\CMVC\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
