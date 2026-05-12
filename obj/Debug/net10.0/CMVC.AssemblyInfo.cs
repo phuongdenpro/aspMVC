@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bd76fe58cde983b75740660f4770a47bf14c58a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45c71c0ebb45aac9a8993e6d33e7716ef4ccb772")]
 [assembly: System.Reflection.AssemblyProductAttribute("CMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -2,6 +2,7 @@
   "openapi": "3.0.4",
   "info": {
     "title": "API",
+    "description": "ASP.NET Core API with JWT Authentication",
     "version": "v1"
   },
   "paths": {
@@ -354,7 +355,7 @@
     "securitySchemes": {
       "Bearer": {
         "type": "http",
-        "description": "Nhập: Bearer {your token}",
+        "description": "Enter 'Bearer' [space] and then your token.",
         "scheme": "Bearer",
         "bearerFormat": "JWT"
       }

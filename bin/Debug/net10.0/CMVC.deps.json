@@ -12,6 +12,7 @@
           "Microsoft.EntityFrameworkCore.InMemory": "10.0.7",
           "Microsoft.EntityFrameworkCore.Relational": "9.0.0",
           "Microsoft.EntityFrameworkCore.Tools": "10.0.7",
+          "Microsoft.OpenApi": "2.4.1",
           "Pomelo.EntityFrameworkCore.MySql": "9.0.0",
           "Swashbuckle.AspNetCore": "10.1.7"
         },
